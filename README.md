@@ -170,10 +170,10 @@ A collaborative web application built during a Full Stack Web Development bootca
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=albetsurya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="165em" src="profile/stats.svg" alt="GitHub Stats" />
 <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=albetsurya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albetsurya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img height="165em" src="profile/top-langs.svg" alt="Top Languages" />
 
 </div>
 
