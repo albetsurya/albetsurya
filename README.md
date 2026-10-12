@@ -36,22 +36,101 @@ const albet = {
 
 ---
 
-## 💼 Work Experience
+## 💼 Experience
 
-### Fullstack Developer - GGF-FMS
+### Fullstack Engineer — Narasi Data Cerdas Indonesia
 
-> **GGF-FMS** · _2023 - Present_
+> _Mar 2025 – Present · Yogyakarta, Indonesia · Remote_
 
-Developed and maintained the **GGF-FMS** application, a field management system designed to streamline operational workflows. Contributed across the full stack - building responsive user interfaces, designing RESTful APIs, and optimizing database performance to ensure a reliable and scalable platform.
+Building fullstack solutions across web and mobile platforms, with ownership spanning UI/UX design to deployment.
+
+- **UI/UX & Layout** — Designed intuitive, responsive interfaces for web and mobile, ensuring a consistent user experience across platforms.
+- **Frontend Development** — Built high-performance, interactive client-side applications using modern frameworks.
+- **Backend Engineering** — Developed and maintained server-side logic, databases, and APIs to power seamless cross-platform functionality.
+- **System Integration** — Connected frontend components with backend services and continuously optimized code for speed and scalability.
+- **Cross-Platform Deployment** — Managed end-to-end deployment pipelines, ensuring technical consistency across web and mobile ecosystems.
+
+`React.js` · `Laravel` · `MySQL` · `TypeScript`
+
+---
+
+### Fullstack Engineer — PT Mandatech Mataram Mukti
+
+> _Sep 2024 – Present · Yogyakarta, Indonesia · Remote_
+
+Developed and maintained **GGF-FMS**, a field management system designed to streamline operational workflows for field teams. Contributed across the entire stack — from responsive UI to RESTful API design and database optimization.
 
 **Key contributions:**
 
-- Designed and implemented core features using **Next.js**, **Node.js**, and **PostgreSQL**
-- Built reusable UI components and improved frontend performance
+- Designed and implemented core features using **Laravel**, **React**, and **MySQL**
+- Built reusable UI components and improved frontend rendering performance
+- Designed RESTful APIs and optimized database queries to support high-volume operational data
 - Collaborated with cross-functional teams to translate business requirements into technical solutions
-- Maintained code quality through code reviews and adherence to best practices
+- Maintained code quality through code reviews and adherence to engineering best practices
+- Managed end-to-end deployment and ensured technical consistency across the platform
 
-> _Note: Feel free to adjust the description above to better reflect your specific role and accomplishments._
+`Laravel` · `React` · `MySQL` · `REST API`
+
+---
+
+### Project Manager — Semampir Academy
+
+> _Feb 2024 – Jan 2026 · Surabaya, East Java, Indonesia · On-site_
+
+Led the operational strategy and growth of a self-employed bootcamp initiative focused on tech education.
+
+- **Vision & Strategy** — Formulated long-term vision and operational strategy to drive program growth.
+- **Team Collaboration** — Coordinated team activities and ensured clear alignment on goals and responsibilities.
+- **Curriculum Development** — Developed relevant, industry-aligned training curricula with continuous updates.
+- **Instructor Recruitment** — Recruited and managed instructors with strong technical and teaching backgrounds.
+- **Networking** — Built relationships with industry partners, universities, and organizations to create collaboration and job-placement opportunities.
+- **Evaluation** — Continuously assessed program performance and improved quality based on stakeholder feedback.
+
+`Leadership` · `E-Learning` · `Curriculum Design` · `Team Management`
+
+---
+
+### Class Coordinator — Rakamin Academy
+
+> _Jan 2024 – Dec 2024 · Jakarta, Indonesia · Remote (Contract)_
+
+Supported the delivery of Rakamin Academy's flagship bootcamp batch as a class coordinator while also selected as an awardee.
+
+- Facilitated live class sessions and ensured smooth technical delivery
+- Sparked discussions and encouraged active student participation
+- Coordinated assessments, admin tasks, and learning logistics
+- Fostered a collaborative learning environment among participants
+- Collected and acted on student feedback to improve session quality
+
+`Communication` · `Leadership` · `Event Coordination`
+
+---
+
+### Fullstack Web Developer — BabyBoo E-Commerce Project
+
+> _Apr 2024 – Jun 2024 · 3 mos · Project-Based_
+
+Built and optimized an e-commerce platform from the ground up, focusing on performance and conversion.
+
+- Optimized page load speed by **30%** in the first month through rendering and asset improvements
+- Redesigned the checkout flow aiming to reduce cart abandonment by **25–30%**
+- Implemented advanced search functionality, targeting **30–40%** increase in customer engagement
+- Integrated a secure payment gateway for safe end-to-end transactions
+
+`Next.js` · `React.js` · `Tailwind CSS` · `Node.js`
+
+---
+
+### Frontend Developer Intern — Core Initiative Studio
+
+> _Sep 2024 – Oct 2024 · Remote · Project-Based Virtual Intern (Rakamin Academy)_
+
+- Led the creation of intuitive user interfaces focused on smooth UX
+- Developed solid server-side systems to improve overall application efficiency
+- Wrote well-structured, high-performance code to boost application capabilities
+- Collaborated with multidisciplinary teams to deliver web projects on schedule
+
+`Vue.js` · `CI/CD` · `Frontend Development`
 
 ---
 
