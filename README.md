@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 # Albet S. Kembara
@@ -34,7 +33,6 @@ const albet = {
   askMeAbout: ["JavaScript", "React", "Node.js", "Web Performance"],
 };
 ```
-````
 
 ---
 
@@ -170,4 +168,3 @@ Whether you're a **recruiter**, a **fellow developer**, or someone building some
 <div align="center">
   <sub>Thanks for stopping by — let's build something great together.</sub>
 </div>
-```
