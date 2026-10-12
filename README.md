@@ -15,9 +15,9 @@
 
 ## 👋 About Me
 
-I'm a **Fullstack Web Developer** with a strong focus on delivering clean, maintainable, and user-centric digital products. I enjoy turning complex problems into simple, elegant interfaces — bridging thoughtful design with solid engineering.
+I'm a **Fullstack Web Developer** with a strong focus on delivering clean, maintainable, and user-centric digital products. I enjoy turning complex problems into simple, elegant interfaces - bridging thoughtful design with solid engineering.
 
-My work spans the entire stack — from crafting responsive UIs with React and Next.js to building reliable REST APIs with Node.js, Prisma, and PostgreSQL. I thrive in collaborative environments and continuously push myself to write better code, ship faster, and learn deeper.
+My work spans the entire stack - from crafting responsive UIs with React and Next.js to building reliable REST APIs with Node.js, Prisma, and PostgreSQL. I thrive in collaborative environments and continuously push myself to write better code, ship faster, and learn deeper.
 
 ```ts
 const albet = {
@@ -33,6 +33,25 @@ const albet = {
   askMeAbout: ["JavaScript", "React", "Node.js", "Web Performance"],
 };
 ```
+
+---
+
+## 💼 Work Experience
+
+### Fullstack Developer - GGF-FMS
+
+> **GGF-FMS** · _2023 - Present_
+
+Developed and maintained the **GGF-FMS** application, a field management system designed to streamline operational workflows. Contributed across the full stack - building responsive user interfaces, designing RESTful APIs, and optimizing database performance to ensure a reliable and scalable platform.
+
+**Key contributions:**
+
+- Designed and implemented core features using **Next.js**, **Node.js**, and **PostgreSQL**
+- Built reusable UI components and improved frontend performance
+- Collaborated with cross-functional teams to translate business requirements into technical solutions
+- Maintained code quality through code reviews and adherence to best practices
+
+> _Note: Feel free to adjust the description above to better reflect your specific role and accomplishments._
 
 ---
 
@@ -71,9 +90,19 @@ const albet = {
 
 ## 🏆 Featured Projects
 
-> A selection of projects that reflect my approach to building fullstack products — from architecture to interface.
+> A selection of projects that reflect my approach to building fullstack products - from architecture to interface.
 
-### 🛒 FullStuckEngineer — E-Commerce Platform
+### 🕌 Sambung Ngaji - Digital Worship & Learning Platform
+
+> **Next.js · TypeScript · Tailwind CSS**
+
+**Sambung Ngaji** is a digital platform for worship and learning - "Pusat ibadah dan pembelajaran digital dalam genggamanmu." Built to make religious learning and worship resources accessible anytime, anywhere, through a clean and modern web experience.
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-sambung--ngaji.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](http://sambung-ngaji.vercel.app)
+
+---
+
+### 🛒 FullStuckEngineer - E-Commerce Platform
 
 A complete e-commerce ecosystem split into three services, built to demonstrate production-grade architecture and clean separation of concerns.
 
@@ -96,7 +125,7 @@ REST API powering authentication, product catalog, order management, and payment
 
 `Next.js` `Tailwind CSS`
 
-A dashboard for administrators to manage products, orders, and users — focused on speed, data density, and a clean operational workflow.
+A dashboard for administrators to manage products, orders, and users - focused on speed, data density, and a clean operational workflow.
 
 [→ View Repository](https://github.com/FullStuckEngineer/CMS-Client)
 
@@ -107,7 +136,7 @@ A dashboard for administrators to manage products, orders, and users — focused
 
 `Next.js` `Tailwind CSS`
 
-Customer-facing storefront with product browsing, cart, and checkout flow — optimized for performance and mobile-first UX.
+Customer-facing storefront with product browsing, cart, and checkout flow - optimized for performance and mobile-first UX.
 
 [→ View Repository](https://github.com/FullStuckEngineer/Web-Client)
 
@@ -117,7 +146,7 @@ Customer-facing storefront with product browsing, cart, and checkout flow — op
 
 ---
 
-### 🌐 Portfolio Website — Personal Showcase
+### 🌐 Portfolio Website - Personal Showcase
 
 > **React · JavaScript**
 
@@ -154,7 +183,7 @@ A collaborative web application built during a Full Stack Web Development bootca
 
 I'm always open to discussing new opportunities, collaborating on interesting projects, or simply exchanging ideas about web development.
 
-Whether you're a **recruiter**, a **fellow developer**, or someone building something meaningful — my inbox is always open.
+Whether you're a **recruiter**, a **fellow developer**, or someone building something meaningful - my inbox is always open.
 
 <div align="center">
 
@@ -166,5 +195,5 @@ Whether you're a **recruiter**, a **fellow developer**, or someone building some
 ---
 
 <div align="center">
-  <sub>Thanks for stopping by — let's build something great together.</sub>
+  <sub>Thanks for stopping by - let's build something great together.</sub>
 </div>
