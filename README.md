@@ -38,27 +38,27 @@ const albet = {
 
 ## 💼 Experience
 
-### Fullstack Engineer — Narasi Data Cerdas Indonesia
+### Fullstack Engineer - Narasi Data Cerdas Indonesia
 
 > _Mar 2025 – Present · Yogyakarta, Indonesia · Remote_
 
 Building fullstack solutions across web and mobile platforms, with ownership spanning UI/UX design to deployment.
 
-- **UI/UX & Layout** — Designed intuitive, responsive interfaces for web and mobile, ensuring a consistent user experience across platforms.
-- **Frontend Development** — Built high-performance, interactive client-side applications using modern frameworks.
-- **Backend Engineering** — Developed and maintained server-side logic, databases, and APIs to power seamless cross-platform functionality.
-- **System Integration** — Connected frontend components with backend services and continuously optimized code for speed and scalability.
-- **Cross-Platform Deployment** — Managed end-to-end deployment pipelines, ensuring technical consistency across web and mobile ecosystems.
+- **UI/UX & Layout** - Designed intuitive, responsive interfaces for web and mobile, ensuring a consistent user experience across platforms.
+- **Frontend Development** - Built high-performance, interactive client-side applications using modern frameworks.
+- **Backend Engineering** - Developed and maintained server-side logic, databases, and APIs to power seamless cross-platform functionality.
+- **System Integration** - Connected frontend components with backend services and continuously optimized code for speed and scalability.
+- **Cross-Platform Deployment** - Managed end-to-end deployment pipelines, ensuring technical consistency across web and mobile ecosystems.
 
 `React.js` · `Laravel` · `MySQL` · `TypeScript`
 
 ---
 
-### Fullstack Engineer — PT Mandatech Mataram Mukti
+### Fullstack Engineer - PT Mandatech Mataram Mukti
 
 > _Sep 2024 – Present · Yogyakarta, Indonesia · Remote_
 
-Developed and maintained **GGF-FMS**, a field management system designed to streamline operational workflows for field teams. Contributed across the entire stack — from responsive UI to RESTful API design and database optimization.
+Developed and maintained **GGF-FMS**, a field management system designed to streamline operational workflows for field teams. Contributed across the entire stack - from responsive UI to RESTful API design and database optimization.
 
 **Key contributions:**
 
@@ -73,24 +73,24 @@ Developed and maintained **GGF-FMS**, a field management system designed to stre
 
 ---
 
-### Project Manager — Semampir Academy
+### Project Manager - Semampir Academy
 
 > _Feb 2024 – Jan 2026 · Surabaya, East Java, Indonesia · On-site_
 
 Led the operational strategy and growth of a self-employed bootcamp initiative focused on tech education.
 
-- **Vision & Strategy** — Formulated long-term vision and operational strategy to drive program growth.
-- **Team Collaboration** — Coordinated team activities and ensured clear alignment on goals and responsibilities.
-- **Curriculum Development** — Developed relevant, industry-aligned training curricula with continuous updates.
-- **Instructor Recruitment** — Recruited and managed instructors with strong technical and teaching backgrounds.
-- **Networking** — Built relationships with industry partners, universities, and organizations to create collaboration and job-placement opportunities.
-- **Evaluation** — Continuously assessed program performance and improved quality based on stakeholder feedback.
+- **Vision & Strategy** - Formulated long-term vision and operational strategy to drive program growth.
+- **Team Collaboration** - Coordinated team activities and ensured clear alignment on goals and responsibilities.
+- **Curriculum Development** - Developed relevant, industry-aligned training curricula with continuous updates.
+- **Instructor Recruitment** - Recruited and managed instructors with strong technical and teaching backgrounds.
+- **Networking** - Built relationships with industry partners, universities, and organizations to create collaboration and job-placement opportunities.
+- **Evaluation** - Continuously assessed program performance and improved quality based on stakeholder feedback.
 
 `Leadership` · `E-Learning` · `Curriculum Design` · `Team Management`
 
 ---
 
-### Class Coordinator — Rakamin Academy
+### Class Coordinator - Rakamin Academy
 
 > _Jan 2024 – Dec 2024 · Jakarta, Indonesia · Remote (Contract)_
 
@@ -106,7 +106,7 @@ Supported the delivery of Rakamin Academy's flagship bootcamp batch as a class c
 
 ---
 
-### Fullstack Web Developer — BabyBoo E-Commerce Project
+### Fullstack Web Developer - BabyBoo E-Commerce Project
 
 > _Apr 2024 – Jun 2024 · 3 mos · Project-Based_
 
@@ -121,7 +121,7 @@ Built and optimized an e-commerce platform from the ground up, focusing on perfo
 
 ---
 
-### Frontend Developer Intern — Core Initiative Studio
+### Frontend Developer Intern - Core Initiative Studio
 
 > _Sep 2024 – Oct 2024 · Remote · Project-Based Virtual Intern (Rakamin Academy)_
 
