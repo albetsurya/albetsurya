@@ -40,7 +40,7 @@ const albet = {
 
 ### Fullstack Engineer - Narasi Data Cerdas Indonesia
 
-> _Mar 2025 – Present · Yogyakarta, Indonesia · Remote_
+> _Mar 2026 – Present · Yogyakarta, Indonesia · Remote_
 
 Building fullstack solutions across web and mobile platforms, with ownership spanning UI/UX design to deployment.
 
