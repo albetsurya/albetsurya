@@ -22,15 +22,26 @@ My work spans the entire stack - from crafting responsive UIs with React and Nex
 ```ts
 const albet = {
   role: "Fullstack Web Developer",
-  focus: ["Frontend Architecture", "API Design", "Developer Experience"],
-  currentlyWorking: ["Sambung Ngaji", "FullStuckEngineer"],
+  focus: [
+    "Frontend Architecture",
+    "API Design",
+    "Mobile Development",
+    "Developer Experience",
+  ],
+  currentlyWorking: ["Narasi Data Cerdas Indonesia", "Sambung Ngaji Project"],
   learning: ["TypeScript", "Next.js", "System Design"],
   openTo: [
     "Full-time roles",
     "Freelance projects",
     "Open-source collaboration",
   ],
-  askMeAbout: ["JavaScript", "React", "Node.js", "Web Performance"],
+  askMeAbout: [
+    "JavaScript",
+    "React",
+    "React Native",
+    "Node.js",
+    "Web Performance",
+  ],
 };
 ```
 
