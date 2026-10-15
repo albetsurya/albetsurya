@@ -17,7 +17,7 @@
 
 I'm a **Fullstack Web Developer** with a strong focus on delivering clean, maintainable, and user-centric digital products. I enjoy turning complex problems into simple, elegant interfaces - bridging thoughtful design with solid engineering.
 
-My work spans the entire stack - from crafting responsive UIs with React and Next.js to building reliable REST APIs with Node.js, Prisma, and PostgreSQL. I thrive in collaborative environments and continuously push myself to write better code, ship faster, and learn deeper.
+My work spans the entire stack - from crafting responsive UIs with React and Next.js, building reliable REST APIs with Node.js and Go, to integrating **AI-driven solutions and agentic workflows**. I thrive in collaborative environments and continuously push myself to write better code, ship faster, and learn deeper.
 
 ```ts
 const albet = {
@@ -26,22 +26,20 @@ const albet = {
     "Frontend Architecture",
     "API Design",
     "Mobile Development",
-    "Developer Experience",
+    "AI Integration",
   ],
-  currentlyWorking: ["Narasi Data Cerdas Indonesia", "Sambung Ngaji Project"],
-  learning: ["TypeScript", "Next.js", "System Design"],
+  currentlyWorking: [
+    "Narasi Data Cerdas Indonesia",
+    "PT Mandatech Mataram Mukti",
+    "Sambung Ngaji",
+  ],
+  learning: ["TypeScript", "Next.js", "System Design", "Agentic AI"],
   openTo: [
     "Full-time roles",
     "Freelance projects",
     "Open-source collaboration",
   ],
-  askMeAbout: [
-    "JavaScript",
-    "React",
-    "React Native",
-    "Node.js",
-    "Web Performance",
-  ],
+  askMeAbout: ["JavaScript", "React", "React Native", "Go", "AI Workflows"],
 };
 ```
 
@@ -176,6 +174,13 @@ Built and optimized an e-commerce platform from the ground up, focusing on perfo
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**AI & Agentic Tools**
+
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-090909?style=for-the-badge&logo=openai&logoColor=white)
+![Hermes](https://img.shields.io/badge/Hermes-FF6C37?style=for-the-badge&logo=dependabot&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-4B32C3?style=for-the-badge&logo=codepen&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black)
 
 **Tools & Workflow**
 
