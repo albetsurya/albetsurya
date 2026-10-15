@@ -40,15 +40,15 @@ const albet = {
 
 ### Fullstack Engineer - Narasi Data Cerdas Indonesia
 
-> _Mar 2026 – Present · Yogyakarta, Indonesia · Remote_
+> _Mar 2026 – Present · Klaten, Central Java, Indonesia · Remote_
 
 Building fullstack solutions across web and mobile platforms, with ownership spanning UI/UX design to deployment.
 
-- **UI/UX & Layout** - Designed intuitive, responsive interfaces for web and mobile, ensuring a consistent user experience across platforms.
-- **Frontend Development** - Built high-performance, interactive client-side applications using modern frameworks.
-- **Backend Engineering** - Developed and maintained server-side logic, databases, and APIs to power seamless cross-platform functionality.
-- **System Integration** - Connected frontend components with backend services and continuously optimized code for speed and scalability.
-- **Cross-Platform Deployment** - Managed end-to-end deployment pipelines, ensuring technical consistency across web and mobile ecosystems.
+- **UI/UX & Layout** Designed intuitive, responsive interfaces for web and mobile, ensuring a consistent user experience across platforms.
+- **Frontend Development** Built high-performance, interactive client-side applications using modern frameworks.
+- **Backend Engineering** Developed and maintained server-side logic, databases, and APIs to power seamless cross-platform functionality.
+- **System Integration** Connected frontend components with backend services and continuously optimized code for speed and scalability.
+- **Cross-Platform Deployment** Managed end-to-end deployment pipelines, ensuring technical consistency across web and mobile ecosystems.
 
 `React.js` · `Laravel` · `MySQL` · `TypeScript`
 
@@ -59,6 +59,9 @@ Building fullstack solutions across web and mobile platforms, with ownership spa
 > _Sep 2024 – Present · Yogyakarta, Indonesia · Remote_
 
 Developed and maintained **GGF-FMS**, a field management system designed to streamline operational workflows for field teams. Contributed across the entire stack - from responsive UI to RESTful API design and database optimization.
+
+[![Website](https://img.shields.io/badge/🌐_Website-GGF--FMS-000000?style=flat-square)](LINK_WEBSITE_DISINI)
+[![Mobile App](https://img.shields.io/badge/📱_Mobile_App-Download-3DDC84?style=flat-square)](https://play.google.com/store/apps/details?id=com.ggfsystem.fmsmobile)
 
 **Key contributions:**
 
@@ -79,12 +82,12 @@ Developed and maintained **GGF-FMS**, a field management system designed to stre
 
 Led the operational strategy and growth of a self-employed bootcamp initiative focused on tech education.
 
-- **Vision & Strategy** - Formulated long-term vision and operational strategy to drive program growth.
-- **Team Collaboration** - Coordinated team activities and ensured clear alignment on goals and responsibilities.
-- **Curriculum Development** - Developed relevant, industry-aligned training curricula with continuous updates.
-- **Instructor Recruitment** - Recruited and managed instructors with strong technical and teaching backgrounds.
-- **Networking** - Built relationships with industry partners, universities, and organizations to create collaboration and job-placement opportunities.
-- **Evaluation** - Continuously assessed program performance and improved quality based on stakeholder feedback.
+- **Vision & Strategy** Formulated long-term vision and operational strategy to drive program growth.
+- **Team Collaboration** Coordinated team activities and ensured clear alignment on goals and responsibilities.
+- **Curriculum Development** Developed relevant, industry-aligned training curricula with continuous updates.
+- **Instructor Recruitment** Recruited and managed instructors with strong technical and teaching backgrounds.
+- **Networking** Built relationships with industry partners, universities, and organizations to create collaboration and job-placement opportunities.
+- **Evaluation** Continuously assessed program performance and improved quality based on stakeholder feedback.
 
 `Leadership` · `E-Learning` · `Curriculum Design` · `Team Management`
 
