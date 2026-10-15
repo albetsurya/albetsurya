@@ -250,7 +250,7 @@ Customer-facing storefront with product browsing, cart, and checkout flow - opti
 
 My personal portfolio, built with React to showcase my projects, skills, and contact information through a clean and modern interface. Focused on strong visual hierarchy and smooth navigation.
 
-[→ View Repository](https://github.com/albetsurya/portfolio-react)
+[→ Live Demo](https://albetsurya.github.io/portfolio-react/) | [→ View Repository](https://github.com/albetsurya/portfolio-react)
 
 ---
 
@@ -260,7 +260,7 @@ My personal portfolio, built with React to showcase my projects, skills, and con
 
 A collaborative web application built during a Full Stack Web Development bootcamp. Demonstrates my ability to contribute effectively within a team and deliver a fullstack product end-to-end.
 
-[→ View Repository](https://github.com/triesaugustrianto/F-FSW2300964-36-CoffeeShopHASTA-PlatinumOLD)
+[→ Read on Medium](https://medium.com/@albetsurya/build-simple-coffeeshop-platform-with-reactjs-5a108cb46a90) | [→ View Repository](https://github.com/triesaugustrianto/F-FSW2300964-36-CoffeeShopHASTA-PlatinumOLD)
 
 ---
 
