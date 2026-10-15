@@ -55,13 +55,16 @@ const albet = {
 
 Building fullstack solutions across web and mobile platforms, with ownership spanning UI/UX design to deployment.
 
+[![Website](https://img.shields.io/badge/🌐_Website-GGF--FMS-000000?style=flat-square)](https://fms.ggfsystem.com/)
+[![Mobile App](https://img.shields.io/badge/📱_Mobile_App-Download-3DDC84?style=flat-square)](https://play.google.com/store/apps/details?id=com.ggfsystem.fmsmobile)
+
 - **UI/UX & Layout** Designed intuitive, responsive interfaces for web and mobile, ensuring a consistent user experience across platforms.
 - **Frontend Development** Built high-performance, interactive client-side applications using modern frameworks.
 - **Backend Engineering** Developed and maintained server-side logic, databases, and APIs to power seamless cross-platform functionality.
 - **System Integration** Connected frontend components with backend services and continuously optimized code for speed and scalability.
 - **Cross-Platform Deployment** Managed end-to-end deployment pipelines, ensuring technical consistency across web and mobile ecosystems.
 
-`React.js` · `Laravel` · `MySQL` · `TypeScript`
+`React.js` · `React Native` · `Laravel` · `MySQL` · `TypeScript`
 
 ---
 
@@ -71,7 +74,7 @@ Building fullstack solutions across web and mobile platforms, with ownership spa
 
 Developed and maintained **GGF-FMS**, a field management system designed to streamline operational workflows for field teams. Contributed across the entire stack - from responsive UI to RESTful API design and database optimization.
 
-[![Website](https://img.shields.io/badge/🌐_Website-GGF--FMS-000000?style=flat-square)](LINK_WEBSITE_DISINI)
+[![Website](https://img.shields.io/badge/🌐_Website-GGF--FMS-000000?style=flat-square)](https://fms.ggfsystem.com/)
 [![Mobile App](https://img.shields.io/badge/📱_Mobile_App-Download-3DDC84?style=flat-square)](https://play.google.com/store/apps/details?id=com.ggfsystem.fmsmobile)
 
 **Key contributions:**
@@ -83,7 +86,7 @@ Developed and maintained **GGF-FMS**, a field management system designed to stre
 - Maintained code quality through code reviews and adherence to engineering best practices
 - Managed end-to-end deployment and ensured technical consistency across the platform
 
-`Laravel` · `React` · `MySQL` · `REST API`
+`Laravel` · `React` · `React Native` · `MySQL` · `REST API`
 
 ---
 
